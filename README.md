@@ -13,10 +13,12 @@ The project contains main library with minimum config files below
 - husky
 
 ## Getting Start
+
 ```
 git clone git@github.com:osatoh/rails_graphql_api_template.git
 make init
 ```
+
 That's it!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

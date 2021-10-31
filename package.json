@@ -24,6 +24,8 @@
     ]
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.5",
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9",
     "next": "10.0.3",
